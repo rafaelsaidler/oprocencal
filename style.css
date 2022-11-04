@@ -1,0 +1,117 @@
+
+
+body {
+    background-color: #81D8D0;
+    
+    
+}
+
+h1 {
+    color: white;
+}
+
+ol {
+    color: white;
+    font-size: 30px;
+}
+
+#logo {
+    
+    border-radius: 180px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    width: 20%;
+    margin-left: 500px;
+    border-color:#81D8D0;
+    border-width:10px ;
+    border-style: solid;
+}
+
+.logo {
+    background-color: black;
+    
+   
+}
+
+#frente {
+    width: 30%;
+    display: inline;
+    padding:10px 
+}
+
+#salao {
+    display: inline;
+    width: 30%;
+    padding: 10px;
+    position: relative;
+    left: 0px;
+    
+}
+
+#tabua2 {
+    display: inline;
+    width: 30%;
+    padding: 10px;
+    position: relative;
+    left: 30x;    
+}
+
+.link {
+    padding: 60px;
+    color: black;
+    text-align: center;
+    font-size: 25px;
+    background-color:#81D8D0;
+    padding: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 0 0 0 55px;
+    
+}
+
+#camarao {
+    width: 30%;
+    padding: 10px;
+    display: inline-block;
+}
+
+#drink {
+    width: 30%;
+    padding: 10px;
+    display: inline-block;
+
+}
+
+#poivre {
+    width: 30%;
+    padding: 10px;
+    display: inline-block;
+}
+
+#champignon {
+    width: 30%;
+    padding: 10px;
+    display: inline-block;
+}
+
+#magret {
+    width: 30%;
+    padding: 10px;
+    display: inline-block;
+}
+
+#steak {
+    width: 30%;
+    padding: 10px;
+    display: inline-block;
+}
+
+footer {
+    background-color: black;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    padding: 50px;
+    
+}
